@@ -1,0 +1,3 @@
+This proof represents a dapp protocol that needs to check whether a value is above or below BTC price at a specific moment in time. 
+
+The verify will keep hidden the price and return whether the contract should execute based on "in the money."
